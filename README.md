@@ -3,6 +3,7 @@ Bitcoin Candy
 
 https://cdy.one/
 
+
 What is Bitcoin candy?
 Bitcoin candy is a hard fork of Bitcoin Cash. Compared to Bitcoin Cash, it brings more attractive featuresï¼?
 (1) ASIC-resistant POW: Equihash;
@@ -13,7 +14,7 @@ Bitcoin candy is a hard fork of Bitcoin Cash. Compared to Bitcoin Cash, it bring
 It became a separate currency from the version supported by Bitcoin Cash when the two split on Jan 13, 2018. Bitcoin Candy and the Bitcoin Cash version of Bitcoin share the same transaction history up until the split.
 
 
-Release
+Release.
 -------
 
 [Last Releases](https://github.com/bitcoincandyofficial/bitcoincandy/releases)
